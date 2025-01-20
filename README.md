@@ -118,3 +118,7 @@ The `Repository<T>` class implements the `IRepository<T>` interface, again const
 - **Delete(T entity)**: Removes the entity from the list. This is direct and affects the collection immediately.
 
 ## 4. Exercices
+
+---
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJsMzVwNWFtMmVjemRudHNyZHAxcTgyM2Z1bHBwdm95bzNzZ2RzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q1aRmd8e90WIw/giphy.gif)
